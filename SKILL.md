@@ -1,12 +1,10 @@
 ---
 name: problem-simplification
-description: Strip any problem down to its essential elements, removing everything
-  extraneous until only the core challenge remains. This is Claude Shannon's primary
-  problem-solving technique.
+description: Strip any problem down to its essential elements, removing everything extraneous until only the core challenge remains. This is Claude Shannon's primary problem-solving technique.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - problem-simplification
 - structure
